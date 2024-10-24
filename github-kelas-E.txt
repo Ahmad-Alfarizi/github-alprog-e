@@ -24,7 +24,7 @@
 24. 24241173	RISKA SAFITRI	
 25. 24241174	AZIZAH FITRIA 	
 26. 24241175	JELYAN ANANDA HERDIYATMA
-27. 24241176	EGI FERDIANSYAH			             https://github.com/Egiferdiansyah/alprog-e
+27. 24241176	EGI FERDIANSYAH			 https://github.com/Egiferdiansyah/alprog-e
 28. 24241177	MUHAMMAD JANU
 29. 24241178	HARIEL HERMAWAN	
 30. 24241037	DERIL ARYA DUTA
@@ -32,9 +32,9 @@
 32. 24241181	ZAEDI ABDAD	
 33. 24241182	PENDI IZHAR	
 34. 24241183	IHJA NURHIDAYAD	
-35. 24241184	SYAIFULLAH 		                  https://github.com/Syaifullah789/alprog-e
-36. 24241185	AHMAD ALFARIZI			            https://github.com/Ahmad-Alfarizi/alprog-e
+35. 24241184	SYAIFULLAH 		         https://github.com/Syaifullah789/alprog-e
+36. 24241185	AHMAD ALFARIZI			 https://github.com/Ahmad-Alfarizi/alprog-e
 37. 24241188	AFRIZAN HIDAYAT	
 38. 24241189	LENCANA HAYA SALSABILA	
-39. 24241190	MUHAMMAD ALFAN HIDAYATULLAH	    https://github.com/MuhammadAlfanHidayatullah/Alprog-e
+39. 24241190	MUHAMMAD ALFAN HIDAYATULLAH	 https://github.com/MuhammadAlfanHidayatullah/Alprog-e
 
